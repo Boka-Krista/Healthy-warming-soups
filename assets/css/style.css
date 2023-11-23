@@ -1,0 +1,29 @@
+/* navbar*/
+
+
+
+
+
+/*body*/
+
+#first-quote {
+    text-align: left;
+}
+
+#second-quoute {
+    text-align: right;
+   
+}
+second-image {
+    float:center;
+    
+}
+
+/*footer*/
+
+#footer {
+    text-align: center;
+    background-color: blue;
+    color:antiquewhite;
+
+}
