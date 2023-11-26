@@ -1,33 +1,43 @@
 /* navbar*/
-
-div <Home {
+#home {
     text-align: left;
+    background-color: blue;
+    color:blanchedalmond;
 }
-
-div <about {
+#about {
     text-align: center;
+    background-attachment: fixed;
+    background-color: beige;
+    color: brown;
 }
-div <menu {
-    text-align:right;
+#dropdownmenu {
+    text-align: right;
+    background-color: darkgray;
+    color:azure;
+}
+.navbar {
+    position:fixed;
+
 }
 /*body*/
 
 #first-quote {
     text-align: left;
-    margin:0px 50px 50px 0px;
-
+    margin:25px 50px 50px 25px;
 }
 
 #second-quoute {
     text-align: right;
-    margin:0px 50px 50px 0px;
-   
-}
-second-image {
-    float:center;
+    margin: 25px 50px 50px 25px;
    
 }
 
+   #second-image {
+    background-image: url("../images/images.jpg");
+    position: center;
+   }
+
+   
 /*footer*/
 
 #footer {
