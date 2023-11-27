@@ -1,49 +1,62 @@
-/* navbar*/
-#home {
+.home {
     text-align: left;
-    background-color: blue;
-    color:blanchedalmond;
+    background-color: aquamarine;
+    position: fixed;
+    width: 33px;
+    height:120px;
 }
-#about {
+
+ .about {
     text-align: center;
-    background-attachment: fixed;
-    background-color: beige;
-    color: brown;
-}
-#dropdownmenu {
-    text-align: right;
-    background-color: darkgray;
-    color:azure;
-}
-.navbar {
+    background-color: blueviolet;
     position:fixed;
-
-}
-/*body*/
-
-#first-quote {
-    text-align: left;
-    margin:25px 50px 50px 25px;
+    width:33px;
+    height: 120px;
 }
 
-#second-quoute {
-    text-align: right;
-    margin: 25px 50px 50px 25px;
-   
-}
-
-   #second-image {
-    background-image: url("../images/images.jpg");
-    position: center;
-   }
-
-   
-   
-/*footer*/
-
-#footer {
-    text-align: center;
+.dropdownmenu {
+    text-align:right;
     background-color: blue;
-    color:antiquewhite;
+    position: fixed;
+    width: 33px;
+    height: 120px;
+}
+
+h1 h2 h3 {
+    text-align: center;
+    background-color: aqua;
+}
+p {
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: coral;
+}
+
+footer {
+    text-align: center;
+    background-color: chartreuse;
+}
+
+.second-quote {
+    text-align:right;
+    width:33px;
+    height:50px;
 
 }
+
+
+#second-image url(../image/image.jpeg){
+ position:center;
+}
+
+
+#about {
+    background-color: cyan;
+    color:red;
+}
+ ul li {
+    text-align: left;
+ }
+ ol li {
+    text-align: right;
+ }
