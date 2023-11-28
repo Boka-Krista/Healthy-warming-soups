@@ -22,41 +22,36 @@
     height: 120px;
 }
 
-h1 h2 h3 {
-    text-align: center;
-    background-color: aqua;
-}
-p {
-    padding-left: 15px;
-    padding-right: 15px;
-    background-color: coral;
-}
 
-footer {
-    text-align: center;
-    background-color: chartreuse;
-}
-
-.second-quote {
-    text-align:right;
-    width:33px;
-    height:50px;
-
-}
-
-
-#second-image url(../image/image.jpeg){
- position:center;
+body {
+    background-color: rgb(167, 26, 49);
+    color:blueviolet;
 }
 
 
 #about {
     background-color: cyan;
     color:red;
+    margin-left: 25em;
+    margin-right: 25em;
 }
- ul li {
-    text-align: left;
- }
- ol li {
-    text-align: right;
- }
+    
+
+
+
+#img-1 quote-1 {
+    float:left;
+    width: 45px;;
+}
+
+#img-2 qoute-2 {
+    float:right;
+    width: 45px;;
+}
+
+
+#footer {
+    text-align: center;
+    background-color: chartreuse;
+    
+}
