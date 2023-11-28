@@ -1,53 +1,62 @@
-.home {
+#home {
     text-align: left;
     background-color: aquamarine;
     position: fixed;
-    width: 33px;
+    width: 30px;
     height:120px;
 }
 
- .about {
+ #about {
     text-align: center;
     background-color: blueviolet;
     position:fixed;
-    width:33px;
+    width: 30px;
     height: 120px;
 }
 
-.dropdownmenu {
+#dropdownmenu {
     text-align:right;
     background-color: blue;
     position: fixed;
-    width: 33px;
+    width: 30px;
     height: 120px;
 }
 
 
 body {
-    background-color: rgb(167, 26, 49);
+    background-color: rgb(233, 119, 138);
     color:blueviolet;
 }
-
+h1 h2 h3 {
+    text-align: center;
+    text-transform: capitalize;
+}
 
 #about {
     background-color: cyan;
     color:red;
-    margin-left: 25em;
-    margin-right: 25em;
+    margin-left: 30%;
+    margin-right: 30%;
 }
+    .navbar {
+        display: inline-block;
+        padding-right: 25px;
+        padding-left: 25px;
+        vertical-align: top;
+        width: 100%;
+    
+    }
+
+div blockquote {
+       display: inline-block;
+        padding-right: 25px;
+        padding-left: 25px;
+        vertical-align: top;
+        width: 25%;
+    }
     
 
 
-
-#img-1 quote-1 {
-    float:left;
-    width: 45px;;
-}
-
-#img-2 qoute-2 {
-    float:right;
-    width: 45px;;
-}
 
 
 #footer {
