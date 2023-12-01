@@ -7,23 +7,7 @@ h1, h2, h3 {
 
 /*------head, dropdown, buttons----*/
 
-.dropdownmenu {
-    position: fixed;
-    background-color: beige;
-    text-align: end;
-}
- .home {
-    text-align: start;
-    position: fixed;
-    background-color: aquamarine;
- }
 
- .about {
-    text-align: center;
-    background-color: chocolate;
-    position: fixed;
-
- }
 
 
 /*-------body---------*/
@@ -39,7 +23,7 @@ body {
 
 .container {
     display: flex;
-    column-gap: 30px;
+    column-gap: 25px;
 }
 .quote-1 {
     height:200px;
@@ -51,8 +35,9 @@ body {
 }
 /*-------footer----*/
 
-#footer {
+.footer {
     text-align: center;
     background-color: chartreuse; 
-    padding-bottom: 10px;
+    margin-top:auto;
+    margin-bottom:auto;
 }
