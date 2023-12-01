@@ -6,3 +6,7 @@ Since I was struggling to find specific tamplate for dropdown button in bootstra
 All images were found in Google.
 
 Majority of information in "About" section is taken from Wikipedia.
+
+I was using additional "help" to make my code work properly from youtube tutorials and w3schools webage. 
+
+All recipes used is from my memory of how we make them at home and at the moment these are my favouretes.
