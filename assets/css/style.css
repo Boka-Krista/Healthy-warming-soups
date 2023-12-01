@@ -1,63 +1,38 @@
-#home {
-    text-align: left;
-    background-color: aquamarine;
-    position: fixed;
-    width: 30px;
-    height:120px;
-}
+/*-----titles----*/
 
- #about {
+h1, h2, h3 {
     text-align: center;
-    background-color: blueviolet;
-    position:fixed;
-    width: 30px;
-    height: 120px;
+    text-transform: uppercase;
 }
 
-#dropdownmenu {
-    text-align:right;
-    background-color: blue;
-    position: fixed;
-    width: 30px;
-    height: 120px;
-}
+/*------head, dropdown, buttons----*/
 
+
+
+/*-------body---------*/
 
 body {
     background-color: rgb(233, 119, 138);
     color:blueviolet;
-}
-h1 h2 h3 {
-    text-align: center;
-    text-transform: capitalize;
+    padding-left: 30px;
+    padding-right: 30px;
 }
 
-#about {
-    background-color: cyan;
-    color:red;
-    margin-left: 30%;
-    margin-right: 30%;
+/*-------quotes------*/ 
+
+.container {
+    display: flex;
+    column-gap: 20px;
 }
-    .navbar {
-        display: inline-block;
-        padding-right: 25px;
-        padding-left: 25px;
-        vertical-align: top;
-        width: 100%;
-    
-    }
-
-div blockquote {
-       display: inline-block;
-        padding-right: 25px;
-        padding-left: 25px;
-        vertical-align: top;
-        width: 25%;
-    }
-    
-
-
-
+.quote-1 {
+    height:200px;
+    width:500px;
+}
+.quote-2 {
+    height: 200px;
+    width: 500px;
+}
+/*-------footer----*/
 
 #footer {
     text-align: center;
