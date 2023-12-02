@@ -7,7 +7,10 @@ h1, h2, h3 {
 
 /*------head, dropdown, buttons----*/
 
-
+navbar-navbar{
+    background-color: rgb(151, 151, 76);
+    color:blue;
+}
 
 
 /*-------body---------*/
@@ -35,7 +38,7 @@ body {
 }
 /*-----pages----*/
 
-#about {
+.about {
     background-color: lavenderblush;
     color:blueviolet;
 }
@@ -60,7 +63,8 @@ body {
 /*-------footer----*/
 
 #footer {
-    position: center;
+    text-align: center;
     background-color: chartreuse; 
-   position: absolute;
+    padding-left: 33px;
+    padding-right: 33px;
 }
