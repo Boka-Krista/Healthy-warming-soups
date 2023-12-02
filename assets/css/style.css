@@ -33,10 +33,34 @@ body {
     height: 200px;
     width: 500px;
 }
+/*-----pages----*/
+
+#about {
+    background-color: lavenderblush;
+    color:blueviolet;
+}
+
+.beetroot-soup {
+    background-color: red;
+    color:black;
+}
+
+.split-peas-soup {
+    background-color: goldenrod;
+    color:black;
+}
+
+.souerkraut-soup {
+    background-color: khaki;
+    color:black;
+}
+
+
+
 /*-------footer----*/
 
-.footer {
-    text-align: center;
+#footer {
+    position: center;
     background-color: chartreuse; 
-   
+   position: absolute;
 }
