@@ -7,16 +7,11 @@ h1, h2, h3 {
 
 /*------head, dropdown, buttons----*/
 
-navbar-navbar{
-    background-color: rgb(151, 151, 76);
-    color:blue;
-}
-
 
 /*-------body---------*/
 
-body {
-    background-color: rgb(233, 119, 138);
+#home {
+    background-color: rgb(218, 233, 119);
     color:blueviolet;
     padding-left: 30px;
     padding-right: 30px;
@@ -38,28 +33,28 @@ body {
 }
 /*-----pages----*/
 
-.about {
+#about {
     background-color: lavenderblush;
     color:blueviolet;
 }
 
-.beetroot-soup {
+#beetroot-soup {
     background-color: red;
     color:black;
 }
 
-.split-peas-soup {
+#split-peas-soup {
     background-color: goldenrod;
     color:black;
 }
 
-.souerkraut-soup {
+#souerkraut-soup {
     background-color: khaki;
     color:black;
 }
 
 
-.sign-up {
+#sign-up {
     background-color: aqua;
     padding-left: 33%;
     padding-right: 33%;
