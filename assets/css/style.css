@@ -10,7 +10,7 @@ h1, h2, h3 {
 
 /*-------body---------*/
 
-#home {
+.home {
     background-color: rgb(218, 233, 119);
     color:blueviolet;
     padding-left: 30px;
@@ -33,39 +33,42 @@ h1, h2, h3 {
 }
 /*-----pages----*/
 
-#about {
+.about {
     background-color: lavenderblush;
     color:blueviolet;
 }
 
-#beetroot-soup {
+.beetroot-soup {
     background-color: red;
     color:black;
 }
 
-#split-peas-soup {
+.split-peas-soup {
     background-color: goldenrod;
     color:black;
 }
 
-#souerkraut-soup {
+.souerkraut-soup {
     background-color: khaki;
     color:black;
 }
 
 
-#sign-up {
+
+ .sign-up {
     background-color: aqua;
     padding-left: 33%;
     padding-right: 33%;
-    padding-top: 0%;
-    padding-bottom: 0%;
+    padding-top: 20%;
+    padding-bottom: 20%;
     text-align: center;
     position: flex;
+    margin: auto;
+    
 }
 /*-------footer----*/
 
-#footer {
+.footer {
     text-align: center;
     background-color: chartreuse; 
     padding-left: 33px;
