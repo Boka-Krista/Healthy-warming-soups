@@ -41,6 +41,8 @@ h1, h2, h3 {
 .beetroot-soup {
     background-color: red;
     color:black;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .split-peas-soup {
@@ -59,11 +61,14 @@ h1, h2, h3 {
     background-color: aqua;
     padding-left: 33%;
     padding-right: 33%;
-    padding-top: 20%;
-    padding-bottom: 20%;
-    text-align: center;
-    position: flex;
-    margin: auto;
+    padding-top: 0%;
+    padding-bottom: 33%;
+    display:inline-block;
+    position:row;
+    margin-inline: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+   text-align: center;
     
 }
 /*-------footer----*/
