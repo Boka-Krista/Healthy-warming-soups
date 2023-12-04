@@ -13,24 +13,27 @@ h1, h2, h3 {
 .home {
     background-color: rgb(218, 233, 119);
     color:blueviolet;
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
 }
 
-/*-------quotes------*/ 
 
+/*-------quotes------*/ 
 .container {
     display: flex;
-    column-gap: 25px;
+    column-gap: 5px;
+    position: static;
 }
 .quote-1 {
     height:200px;
-    width:500px;
+    width:200px;
 }
 .quote-2 {
     height: 200px;
-    width: 500px;
+    width: 200px;
 }
+
 /*-----pages----*/
 
 .about {
