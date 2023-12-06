@@ -58,11 +58,9 @@ img {
     padding-left: 85px;
     padding-right: 85px;
     font-size: 19px;
-    font-family:'Courier New', Courier, monospace ;
- 
-    text-transform: full-width;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, Courier, monospace ;
     font-weight: bold;
-    font-stretch: expanded;
+    
 }
 
 .borsch {
