@@ -9,29 +9,42 @@ h1, h2, h3 {
 
 /*------head, dropdown, buttons----*/
 
+.dropdownn {
+    flex-direction: column;
+    text-align: center;
+
+}
 
 /*-------body---------*/
 
 .home {
     background-color: rgb(218, 233, 119);
     color:blueviolet;
-    margin:0;
-    padding:0;
+    margin-right: 10px;
    font-size: 19px;
-    justify-content: center;
-    align-items: center;
    
+   align-items: right;
+   text-align: center;
+   text-decoration-line: 20px;
+  display:block;
+  padding-left: 85px;
+  padding-right: 85px;
+   margin: auto;
 }
 img {
-    max-width: 350px;
+    max-width:240px;
     float: left;
     border-radius: 20px;
     border: 5px solid red;
-    margin-right: 20px;
+    margin-left:30px;
+    margin-bottom: 30px;
+    margin:auto;
+    
 }
 .container {
-    margin:100px auto;
-    width: 75%;
+    margin:85px auto;
+    width: 90;
+    
 }
 
 
@@ -40,13 +53,15 @@ img {
 .about {
     background-color: lavenderblush;
     color:blueviolet;
-    padding-left: 25px;
-    padding-right: 25px;
+    padding-left: 30px;
+    padding-right: 30px;
     font-size: 19px;
+    font-family:'Courier New', Courier, monospace ;
+    font-stretch: ultra-condensed;
 }
 
 .borsch {
-    background-color: red;
+    background-color: darksalmon;
     color:black;
     margin:0;
     padding:0;
@@ -79,9 +94,11 @@ img {
 
  .sign-up {
     background-color: aqua;
-  text-align: center;
-  padding: 45 0;
-  margin: 24px 0 12px 0;
+    text-align: center;
+    padding-left: 85px;
+    padding-right: 85px;
+    padding-bottom: 45px;
+   
  
     
 }
