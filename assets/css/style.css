@@ -11,162 +11,119 @@ h1, h2, h3 {
 
 /*------head, dropdown, buttons----*/
 
-.dropdown {
-    flex-direction: column;
-    text-align: right;
-
+.btn-group{
+    margin-right: 30px;
 }
 
 /*-------body---------*/
+html, body {
+    height:100%;
+}
 
-.home {
+ .home {
     background-color: rgb(218, 233, 119);
-    color:blueviolet;
-    margin-right: 10px;
-   font-size: 19px;
-   font-weight: 600;
-   align-items: right;
-   text-align: center;
-   text-decoration-line: 20px;
-  display:block;
-  padding-left: 85px;
-  padding-right: 85px;
-   
+    color:rgb(108, 40, 171);
+    text-align: center;
+    font-size: 19px;
+    font-weight: 400;
+    font-family: 'Courier New', Courier, monospace;
+     text-align:justify;
+    
 }
 img {
-    max-width:240px;
+
     float: left;
     border-radius: 20px;
     border: 5px solid red;
-    margin-left:30px;
-    margin-bottom: 30px;
-    margin:auto;
+    max-height: 500px;
+    
     
 }
-.container {
-    margin:85px auto;
-    width: 90;
-    
-}
+
 
 
 /*-----pages----*/
 
 .about {
-    background-color: lavenderblush;
+    background-color: lavender;
     color:blueviolet;
-    padding-left: 85px;
-    padding-right: 85px;
+   text-align:justify;
     font-size: 19px;
-    font-family:fantasy;
-    font-weight: 600;
-    
+    font-family:monospace;
+    font-weight: 400;
+    padding-right:30px;
+    padding-left: 30px;
 }
 
 .borsch {
     background-color: darksalmon;
-    color:rgb(57, 52, 64);
-    font-weight: 600;
- margin-right: 30px;
-font-size: 19px;
-list-style-position: inside;
-align-items: right;
-text-align: center;
-text-decoration-line:30px;
-display:block;
-padding-left: 100px;
-padding-right: 100px;
+    color:navy;
+    font-weight: 500;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 19px;
+    
 } 
-.image-red-soup {
 
-    max-width:340px;
-    float: left;
+.image-red-soup {
+    margin:right;
     border-radius: 20px;
     border: 5px solid red;
-    margin-right:50px
 }
-container-fluid {
-    margin:95px auto;
-    width: 90;
-}
+
 
 .split-peas-soup {
     background-color: goldenrod;
-    color:rgb(68, 15, 15);
-    margin-right: 10px;
+    color:rgb(59, 83, 83);
     font-size: 19px;
-    list-style-position: outside;
-    align-items: right;
-    text-align: center;
-    text-decoration-line: 20px;
-   display:block;
-   padding-left: 85px;
-   padding-right: 85px;
-font-weight: 600;
+    font-weight: 400;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .image-yellow-peas {
-    max-width:340px;
-    float: left;
+    float: right;
     border-radius: 20px;
     border: 5px solid red;
     margin-right:30px
 }
-container-fluid {
-    margin:85px auto;
-    width: 90;
-}
+
 
 .souerkraut-soup {
     background-color: khaki;
-    color:rgba(0, 0, 0, 0.69);
-    margin-right: 10px;
+    color:green;
     font-size: 19px;
-    list-style-position: outside;
-    align-items: right;
-    text-align: center;
-    text-decoration-line: 20px;
-   display:block;
-   padding-left: 85px;
-   padding-right: 85px;
-   font-weight: 600;
+   font-weight: 500;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .image-cabbage-soup {
-    max-width:340px;
-    float: left;
+    float: right;
     border-radius: 20px;
     border: 5px solid red;
     margin-right:30px
 }
-container-fluid {
-    margin:85px auto;
-    width: 90;
-}
+
 
  .sign-up {
     background-color: aqua;
     text-align: center;
-    padding-left: 85px;
-    padding-right: 85px;
-    padding-bottom: 45px;
-    
-
    
-}
-ul  {
-    text-align: justify;
-}
-li{
-    text-align: justify;
+ }   
+.input {
+    margin:10px 0px;
 }
 
 /*-------footer----*/
 
 .footer {
-    text-align: center;
-    background-color: chartreuse; 
-    color:crimson;
-    padding-left: 33px;
-    padding-right: 33px;
+   text-align: center;
+    background-color: limegreen;
+    color:rgb(230, 19, 19);
+  
 }
+body > footer {
+    position: sticky;
+    top: 100vh;
+
+   
+}
+
