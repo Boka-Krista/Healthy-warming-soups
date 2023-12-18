@@ -3,7 +3,7 @@
 h1, h2, h3 {
     text-align: center;
     text-transform: uppercase;
-    font-size: 25px;
+    font-size: 30px;
     color:rgb(50, 20, 220);
     font-weight: bold;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -28,14 +28,15 @@ html, body {
     font-weight: 400;
     font-family: 'Courier New', Courier, monospace;
      text-align:justify;
-     
+  
 }
 img {
 
     float: left;
     border-radius: 20px;
     border: 5px solid red;
-    max-height: 500px;
+    max-height: 300px;
+    margin: 30px;
     
     
 }
