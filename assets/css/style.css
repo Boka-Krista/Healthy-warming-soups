@@ -48,12 +48,13 @@ img {
 .about {
     background-color: lavender;
     color:blueviolet;
-   text-align:justify;
+    text-align:justify;
     font-size: 19px;
     font-family:monospace;
     font-weight: 400;
     padding-right:30px;
     padding-left: 30px;
+    
 }
 
 .borsch {
@@ -112,7 +113,15 @@ img {
 .input {
     margin:10px 0px;
 }
+.thank-you {
+    text-align: center;
+    background-color: chartreuse;
+    color:blueviolet;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
 
+}
 /*-------footer----*/
 
 .footer {
