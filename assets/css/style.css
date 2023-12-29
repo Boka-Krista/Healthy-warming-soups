@@ -1,5 +1,3 @@
-/*-----titles----*/
-
 h1, h2, h3 {
     text-align: center;
     text-transform: uppercase;
@@ -9,13 +7,11 @@ h1, h2, h3 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-/*------head, dropdown, buttons----*/
-
 .btn-group{
     margin-right: 30px;
 }
 
-/*-------body---------*/
+
 html, body {
     height:100%;
 }
@@ -28,32 +24,23 @@ html, body {
     font-weight: 400;
     font-family: 'Courier New', Courier, monospace;
      text-align:justify;
-  
-}
-img {
+  }
 
+img {
     float: left;
     border-radius: 20px;
     border: 5px solid red;
     max-height: 300px;
     margin: 30px;
+ }   
     
-    
-}
-
-
-
-/*-----pages----*/
-
 .about {
     background-color: lavender;
     color:blueviolet;
     text-align:justify;
     font-size: 19px;
     font-family:monospace;
-    font-weight: 400;
-    
-    
+    font-weight: 400;   
 }
 
 .borsch {
@@ -62,11 +49,10 @@ img {
     font-weight: 500;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 19px;
-    
 } 
 
 .image-red-soup {
-    margin:right;
+    float:right;
     border-radius: 20px;
     border: 5px solid red;
 }
@@ -107,11 +93,12 @@ img {
  .sign-up {
     background-color: aqua;
     text-align: center;
-   
- }   
+   }  
+
 .input {
     margin:10px 0px;
 }
+
 .thank-you {
     text-align: center;
     background-color: chartreuse;
@@ -119,20 +106,16 @@ img {
     font-size: large;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-transform: uppercase;
-
 }
-/*-------footer----*/
 
 .footer {
    text-align: center;
     background-color: limegreen;
     color:rgb(230, 19, 19);
-  
 }
+
 body > footer {
     position: sticky;
     top: 100vh;
-
-   
 }
 
