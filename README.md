@@ -50,77 +50,67 @@ Here is the used link: https://www.w3schools.com/cssref/playdemo.php?filename=pl
 
 ## Features
 
-🛑🛑🛑🛑🛑 START OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
-In this section, you should go over the different parts of your project,
-and describe each in a sentence or so.
-
-You will need to explain what value each of the features provides for the user,
-focusing on who this website is for, what it is that they want to achieve,
-and how your project is the best way to help them achieve these things.
-
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-IMPORTANT: Remember to always include a screenshot of each individual feature!
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
 ### Existing Features
 
-- **Title for feature #1**
+- **Navbar section #1**
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+  A chance for people to navigate through pages.
 
-![screenshot](documentation/feature01.png)
+![screenshot](documentation/features/nav-bar-feature.png)
 
-- **Title for feature #2**
+- **A button for external link for benefits of soups #2**
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+    This is to give a chance to people to read more about benefits of including soups in their diets, in case they get interested in reading up on that.
 
-![screenshot](documentation/feature02.png)
+![screenshot](documentation/features/button-for-additional-information-feature.png)
 
-- **Title for feature #3**
+- **External link to video tutorials  #3**
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+    -This gives a people chance to follow a video tutorial in case it is easier for them to watch the video instead of reading instructions.
 
-![screenshot](documentation/feature03.png)
+![screenshot](documentation/features/button-for-video-tutorial-feature.png)
 
-🛑🛑🛑🛑🛑 START OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+- **Image  #4**
 
-Repeat as necessary for as many features as your site contains.
+Added images in pages, so the website looks more pleasing and gains curiosity to try the recipes.
 
-Hint: the more, the merrier!
+![screenshot](documentation/features/image-feature.png)
 
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+- **Footer  #5**
+
+To give a chance to people to follow pages activity across social media.
+
+![screenshot](documentation//features/footer-feature.png)
+
+- **Signing up  #6**
+
+Giving a chance to sign up for more content of the page.
+
+![screenshot](documentation/features/signing-up-feature.png)
+
+- **Thank you note  #7**
+
+To make people more valued about signing up to page.
+
+![screenshot](documentation/features/thank-you-note-feature.png)
+
 
 ### Future Features
 
-🛑🛑🛑🛑🛑 START OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
-Do you have additional ideas that you'd like to include on your project in the future?
-Fantastic! List them here!
-It's always great to have plans for future improvements!
-Consider adding any helpful links or notes to help remind you in the future, if you revisit the project in a couple years.
 
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-- Title for future feature #1
-    - Any additional notes about this feature.
-- Title for future feature #2
-    - Any additional notes about this feature.
-- Title for future feature #3
-    - Any additional notes about this feature.
+- More recipes #1
+    - Adding more recipes, which possibly could be also unusual.
+- Uploading recipes #2
+    - To give a chance to customers to upload their own recipes, if from other cultures -even better.
+-  Coment section #3
+    - To give a chance to customers to coment/rate used recipes.
 
 ## Tools & Technologies Used
 
-🛑🛑🛑🛑🛑 START OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
-In this section, you should explain the various tools and technologies used to develop the project.
-Make sure to put a link (where applicable) to the source, and explain what each was used for.
-Some examples have been provided, but this is just a sample only, your project might've used others.
-Feel free to delete any unused items below as necessary.
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
 - [HTML](https://en.wikipedia.org/wiki/HTML) used for the main site content.
 - [CSS](https://en.wikipedia.org/wiki/CSS) used for the main site design and layout.
@@ -150,14 +140,7 @@ Parts of the code been checked in walkthrough videos, bootstrap and w3shcools we
 
 ### Content
 
-🛑🛑🛑🛑🛑 START OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
-Use this space to provide attribution links to any borrowed code snippets, elements, or resources.
-A few examples have been provided below to give you some ideas.
-
-Ideally, you should provide an actual link to every resource used, not just a generic link to the main site!
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
 | Source | Location | Notes |
 | --- | --- | --- |
@@ -189,3 +172,6 @@ https://www.saga.co.uk/magazine/health-wellbeing/diet-nutrition/nutrition/10-rea
 - I would like to thank the [Code Institute Slack community](https://code-institute-room.slack.com) for the moral support; it kept me going during periods of self doubt and imposter syndrome.
 - I would like to thank my ex-partner, for occationally taking our daughter for a few days so I could spend a bit more time creating page.
 - I would like to thank my stepdads brother, who also recently finished web development courses which gave me some tips on how to improve the page and code.
+
+
+[def]: documentation/nav-bar-feature.png
