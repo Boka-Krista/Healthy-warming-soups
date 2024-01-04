@@ -44,7 +44,12 @@ Thank you page: chartreuse for background colour and blueviolet for text.
 All the fonts I chose I've got inspiration from w3schools website, where before choosing I could test it on how it would look like.
 Here is the used link: https://www.w3schools.com/cssref/playdemo.php?filename=playcss_font-family .
 
-
+For home page I have used font Courier New.
+About page is done using monospace.
+Borsch page is done with Georgia.
+Split peas soup page is in Verdana.
+Souerkraut soup is also done in Verdana.
+Thank you notification is done in Segoe UI.
 
 
 
@@ -108,6 +113,23 @@ To make people more valued about signing up to page.
 -  Coment section #3
     - To give a chance to customers to coment/rate used recipes.
 
+
+## Testing
+
+For all testing, please refer to the [TESTING.md](TESTING.md) file.
+
+## Deployment
+
+The site was deployed to GitHub Pages. The steps to deploy are as follows:
+
+- In the [GitHub repository](https://github.com/Boka-Krista/Healthy-warming-soups), navigate to the Settings tab 
+- From the source section drop-down menu, select the **Main** Branch, then click "Save".
+- The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+The live link can be found [here](https://boka-krista.github.io/Healthy-warming-soups)
+
+
+
 ## Tools & Technologies Used
 
 
@@ -115,13 +137,10 @@ To make people more valued about signing up to page.
 - [HTML](https://en.wikipedia.org/wiki/HTML) used for the main site content.
 - [CSS](https://en.wikipedia.org/wiki/CSS) used for the main site design and layout.
 - [CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp) used for an enhanced responsive layout.
-- [CSS Grid](https://www.w3schools.com/css/css_grid.asp) used for an enhanced responsive layout.
-- [JavaScript](https://www.javascript.com) used for user interaction on the site.
 - [Git](https://git-scm.com) used for version control. (`git add`, `git commit`, `git push`)
 - [GitHub](https://github.com) used for secure online code storage.
 - [GitHub Pages](https://pages.github.com) used for hosting the deployed front-end site.
 - [Gitpod](https://gitpod.io) used as a cloud-based IDE for development.
-- [Codeanywhere](https://codeanywhere.com) used as a cloud-based IDE for development.
 - [Bootstrap](https://getbootstrap.com) used as the front-end CSS framework for modern responsiveness and pre-built components.
 
 
@@ -147,7 +166,7 @@ Parts of the code been checked in walkthrough videos, bootstrap and w3shcools we
 | [Markdown Builder](https://tim.2bn.dev/markdown-builder) | README and TESTING | tool to help generate the Markdown files |
 | [W3Schools](https://www.w3schools.com/howto/howto_js_topnav_responsive.asp) | entire site | responsive HTML/CSS/JS navbar |
 | [W3Schools](https://www.w3schools.com/howto/howto_css_modals.asp) | contact page | interactive pop-up (modal) |
-| [Bootstrap] (https://getbootstrap.com/docs/4.0/components/dropdowns/) | page | examples for dropdown menu bar |
+| [Bootstrap](https://getbootstrap.com/docs/4.0/components/dropdowns/) | page | examples for dropdown menu bar |
 | [YouTube](https://www.youtube.com/watch?v=Q0KNxDpt71c&t=516s) | PP3 terminal | tutorial for aligning image and text |
 
 

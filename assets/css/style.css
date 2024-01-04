@@ -26,14 +26,14 @@ html, body {
      text-align:justify;
   }
 
-img {
-    float: left;
+  img {
     border-radius: 20px;
     border: 5px solid red;
     max-height: 300px;
-    margin-left: 65px;
-    margin-top: 0.5px;
- }   
+    width: 100%;
+    margin: 1em auto;
+    object-fit: cover;
+}
     
 .about {
     background-color: lavender;
@@ -107,15 +107,19 @@ img {
     text-align: center;
     background-color: chartreuse;
     color:blueviolet;
-    font-size: large;
+    font-weight: 800;
+    font-size: xx-large;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-transform: uppercase;
 }
 
+
+
 .footer {
    text-align: center;
-    background-color: limegreen;
-    color:rgb(230, 19, 19);
+    background-color: #0a1c0a;
+    color:yellow;
+ 
 }
 
 body > footer {
