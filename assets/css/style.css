@@ -17,8 +17,8 @@ html, body {
 }
 
  .home {
-    background-color: rgb(218, 233, 119);
-    color:rgb(108, 40, 171);
+    background-color:#E8F1AC ;
+    color:#4B1C78;
     text-align: center;
     font-size: 19px;
     font-weight: 400;
@@ -45,8 +45,8 @@ html, body {
 }
 
 .borsch {
-    background-color: darksalmon;
-    color:navy;
+    background-color: #e9967a;
+    color:#00004D;
     font-weight: 500;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 19px;
@@ -79,8 +79,8 @@ html, body {
 
 
 .souerkraut-soup {
-    background-color: khaki;
-    color:green;
+    background-color:#EDE591;
+    color:#005200;
     font-size: 19px;
    font-weight: 500;
    font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -105,8 +105,8 @@ html, body {
 
 .thank-you {
     text-align: center;
-    background-color: chartreuse;
-    color:blueviolet;
+    background-color: #7fff00;
+    color:#110949;
     font-weight: 800;
     font-size: xx-large;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -118,7 +118,7 @@ html, body {
 .footer {
    text-align: center;
     background-color: #0a1c0a;
-    color:yellow;
+    color:#ffff00;
  
 }
 
